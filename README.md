@@ -1,6 +1,4 @@
 # Design-Database-for-HomeLending-Project
-CSCI 54100 DATABASE SYSTEMS
-
 ## Steps involved in Database design
 
 ```
