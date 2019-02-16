@@ -1,5 +1,5 @@
 # Design-Database-for-HomeLending-Project
-## Steps involved in Database design
+## Steps for Database design
 
 ```
 1.	Functional dependency analysis
@@ -12,8 +12,8 @@
 
 ## Logical data model
 
-<img src="https://github.com/Premchand95/Design-Database-for-HomeLending-Project/blob/master/img/LDM.png">
+<img src="https://github.com/BhavaniSingh/CREATING_AND_QUERING_HOME_LENDING_DATABASE/blob/master/LDM.png">
 
 ## Physical data model
 
-<img src="https://github.com/Premchand95/Design-Database-for-HomeLending-Project/blob/master/img/PDM.png">
+<img src="https://github.com/BhavaniSingh/CREATING_AND_QUERING_HOME_LENDING_DATABASE/blob/master/PDM.png">
